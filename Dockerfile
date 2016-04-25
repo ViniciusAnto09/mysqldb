@@ -1,5 +1,4 @@
 FROM ubuntu:trusty
-MAINTAINER Fernando Mayo <fernando@tutum.co>, Feng Honglin <hfeng@tutum.co>
 
 # Add MySQL configuration
 COPY my.cnf /etc/mysql/conf.d/my.cnf
